@@ -1,0 +1,83 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "data": [
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "type": "gkk",
+                "name": "公开课",
+                "state": ""
+            },     
+            {
+                "time": "10:15",
+                "type": "hb",
+                "name": "红包",
+                "state": "",
+                "data": {
+                    "id": 19,
+                    "teacherId": 4128648,
+                    "teacherName": "徐小明"
+                }
+            },      
+            {
+                "time": "10:20",
+                "type": "djq",
+                "name": "代金券",
+                "state": "",
+                "data": {"id":28,"price":50,"amount":5000}
+            },
+            
+            {
+                "startTime": "11:00",
+                "endTime": "11:30",
+                "type": "gkk",
+                "name": "公开课",
+                "state": ""
+            },
+            {
+                "time": "14:00",
+                "type": "tyq",
+                "name": "代金券",
+                "state": "",
+                "data": {
+                    "id": 19,
+                    "teacherId": 4128648,
+                    "teacherName": "徐小明"
+                }
+            },
+            {
+                "startTime": "14:30",
+                "endTime": "15:00",
+                "type": "gkk",
+                "name": "公开课",
+                "state": ""
+            },
+            {
+                "startTime": "15:30",
+                "endTime": "16:00",
+                "type": "hb",
+                "name": "公开课",
+                "state": "",
+                "data": {
+                    "id": 19,
+                    "teacherId": 4128648,
+                    "teacherName": "徐小明"
+                }
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "17:00",
+                "name": "公开课",
+                "state": "",
+                "data": {
+                    "id": 19,
+                    "teacherId": 4128648,
+                    "teacherName": "徐小明"
+                }
+            }
+        ],
+        "time": 1510193694406
+    }
+}
